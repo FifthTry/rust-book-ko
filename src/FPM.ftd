@@ -2,15 +2,16 @@
 -- import: fpm
 
 
--- fpm.package: test/package
-zip: github.com/test/package/archive/refs/heads/main.zip
-language: en
+-- fpm.package: fifthtry.github.io/rust-book-ko
+zip: github.com/fifthtry/rust-book-ko/archive/refs/heads/main.zip
+language: 🇰🇷Korean
+translation-of: fifthtry.github.io/rust-book-en
 
 -- fpm.dependency: fifthtry.github.io/Forest-Theme as ft
 
 -- fpm.auto-import: ft
 
--- fpm.auto-import: test/package/FPM/config
+-- fpm.auto-import: fifthtry.github.io/rust-book-ko/FPM/config
 
 -- fpm.auto-import: fpm
 
