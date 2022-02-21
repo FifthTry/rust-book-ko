@@ -1,0 +1,6 @@
+-- import: fpm
+
+-- fpm.track: ch04-01-what-is-ownership.ftd
+self-timestamp: 1645170544885644000
+last-merged-version: 1645090114531446000
+package: fifthtry.github.io/rust-book-en/

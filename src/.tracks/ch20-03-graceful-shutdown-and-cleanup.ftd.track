@@ -1,0 +1,6 @@
+-- import: fpm
+
+-- fpm.track: ch20-03-graceful-shutdown-and-cleanup.ftd
+self-timestamp: 1645170544885644000
+last-merged-version: 1645090114531446000
+package: fifthtry.github.io/rust-book-en/

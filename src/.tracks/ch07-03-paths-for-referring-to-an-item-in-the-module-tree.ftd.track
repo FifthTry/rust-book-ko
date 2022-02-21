@@ -1,0 +1,6 @@
+-- import: fpm
+
+-- fpm.track: ch07-03-paths-for-referring-to-an-item-in-the-module-tree.ftd
+self-timestamp: 1645170544885644000
+last-merged-version: 1645090114531446000
+package: fifthtry.github.io/rust-book-en/
